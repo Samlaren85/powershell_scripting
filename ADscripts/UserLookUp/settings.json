@@ -1,0 +1,7 @@
+{
+    "MailDomain": "@example.com",
+    "UserAttributes": ["DisplayName", "Mail", "Department", "City", "UserPrincipalName", "AccountEnabled"],
+    "ManagerAttributes": ["DisplayName", "UserPrincipalName"],
+    "ColumnNumber": 1,
+    "FilePath": "UserLookUp.xlsx"
+}
